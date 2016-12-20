@@ -1,6 +1,6 @@
 {
   "name": "hypernagato",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "Theme for HyperTerminal",
   "main": "index.js",
   "scripts": {
