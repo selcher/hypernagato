@@ -1,6 +1,6 @@
 {
   "name": "hypernagato",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Theme for HyperTerminal",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,9 @@
   ],
   "author": "Selcher <selcher123@gmail.com> (http://selcher.github.io)",
   "homepage": "https://github.com/selcher",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/selcher/hypernagato"
+  },
   "license": "MIT"
 }
