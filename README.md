@@ -2,7 +2,7 @@
 
 A Simple Theme for [hyper](https://hyper.is/)
 
-<img src="https://cldup.com/eVSLDTLHME.png" width=500 />
+<img src="https://cldup.com/wEygh0PCMZ.png" width=500 />
 
 ### USAGE
 
