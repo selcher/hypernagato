@@ -1,11 +1,20 @@
 exports.decorateConfig = (config) => {
     return Object.assign({}, config, {
-        backgroundColor: 'rgba(0,60,90,0.8)',
-        borderColor: 'rgba(50,190,255,0.4)',
+        backgroundColor: 'rgba(0,0,0,0.8)',
+        borderColor: 'rgba(0,0,0,1)',
         cursorColor: 'rgba(50,190,255,1)',
         cursorShape: 'UNDERLINE',
         css: `
-            $(config.css || '')
+            ${config.css || ''}
+            .main_mmu {
+                background: rgba(0,0,0,0.8);
+            }
+            .header_appTitle {
+                color: rgba(50,190,255,1);
+            }
+            .header_shape {
+                color: rgba(50,190,255,1);
+            }
         `,
         termCSS: `
             x-screen {
